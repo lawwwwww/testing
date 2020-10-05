@@ -1,0 +1,67 @@
+table{
+	border:1px solid black;
+	text-align:center;
+	width:50%;
+	margin-left:100px;
+}
+td{
+	text-align:center;
+	border:1px solid grey;
+	height:32px;
+}
+
+.emp{
+	height:20px;
+	border:1px solid white;
+	border-bottom:1px solid grey;
+	background-color:white;
+}
+
+
+th{
+	text-align:center;
+	border: 1px solid grey;
+	background-color:#CFF1CD;
+	height:32px;
+}
+
+.days{
+	background-color:#CFF1CD;
+	border:1px solid grey;
+	font-weight:bold;
+}
+
+.redtd{
+	background-color:#F1F16A;
+	border:1px solid grey;
+}
+
+.bluetd{
+	background-color:#85DF80;
+	border:1px solid grey;
+}
+
+button{
+	background-color: #ED8909; 
+	color: white;
+	text-align: center;
+	font-weight:bold;
+	border:3px solid #F1F16A;
+	border-left:10px solid #F1F16A;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 5px;
+}
+
+
+input[type=submit] {
+	margin-left:100px;
+}
+
+.hiding{
+	display:none;
+}
+
+body{
+	 padding-left: 100px;
+	margin-top:20px;}
